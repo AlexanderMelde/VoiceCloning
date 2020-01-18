@@ -20,4 +20,9 @@ möglich, beliebige Sätze durch die geklonten Stimme sprechen zu lassen.
 In dieser Arbeit werden nicht nur die technischen Hintergründe der genannten Techniken sowie mögliche Chancen und Risiken des Voice Clonings erläutert, sondern auch der aktuellen Stand der Wissenschaft sowie die Praxistauglichkeit dieser Ansätze mithilfe aktueller Papers und deren Code-Implementationen erarbeitet und getestet.
 
 ### Dokumentation
-Die vollständige Ausarbeitung sowie die Präsentation werden nach Abschluss des Prüfungsverfahrens an dieser Stelle veröffentlicht.
+Die Dokumentation der Seminararbeit kann als PDF-Datei heruntergeladen werden:
+
+- [Ausarbeitung](https://github.com/AlexanderMelde/VoiceCloning/raw/master/Voice%20Cloning%20-%20Ausarbeitung.pdf)
+- [Präsentation](https://github.com/AlexanderMelde/VoiceCloning/raw/master/Voice%20Cloning%20-%20Pr%C3%A4sentation.pdf)
+
+Zusätzliche Begleitmaterialen befinden sich in den Ordnern [_audio_](https://github.com/AlexanderMelde/VoiceCloning/tree/master/audio) und [_video_](https://github.com/AlexanderMelde/VoiceCloning/tree/master/video) dieses Repositories.
